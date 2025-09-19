@@ -1,9 +1,18 @@
-## Introduction
-#### 덕성여자대학교 소프트웨어전공 고희주
-📍 2025 멋쟁이사자처럼 13기 백엔드 운영진<br>
-📍 2024 멋쟁이사자처럼 12기 백엔드 아기사자<br><br>
+## 👩🏻‍💻 Introduction
+#### 덕성여자대학교 소프트웨어전공 22 고희주
 
-## Currently Studying
+<br>
+
+**📍 2024**
+- 멋쟁이사자처럼 12th 아기사자 | BE
+
+**📍 2025**
+- 멋쟁이사자처럼 13th 운영진 | BE
+- UMC 9th Spring Boot
+
+<br>
+
+## 📖 Currently Studying
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,6 +38,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <br><br>
 
-## Github
+## 🌱 Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeejuKo)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeejuKo)](https://github.com/anuraghazra/github-readme-stats)
